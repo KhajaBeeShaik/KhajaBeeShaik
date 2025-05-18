@@ -3,7 +3,7 @@
 I’m a graduate student pursuing my **Master’s in Information Technology at ASU**, passionate about building robust, scalable, and data-driven systems. My focus lies at the intersection of **software engineering**, **Data Engineering**, and **Data Analytics** — transforming real-world problems into working tech solutions.
 
 ---
-
+<img align="right" alt="Tech girl coding" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
 ## 💡 A Little More About Me
 
 - 🌱 Currently diving deep into **AWS**, **Full-Stack Development**, and **Streaming Data Applications**
