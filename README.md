@@ -4,8 +4,6 @@ I’m a graduate student pursuing my **Master’s in Information Technology at A
 
 ---
 ## 💡 A Little More About Me
-
-<img align="right" alt="mad-cat" src="https://media.tenor.com/V0jU4Y3PIEwAAAAM/mad-cat-fr-lol.gif" width="180"/>
 - 🌱 Currently diving deep into **AWS**, **Full-Stack Development**, and **Streaming Data Applications**
 - 💻 I enjoy crafting **end-to-end web platforms**, **automating data pipelines**, and **designing cloud-native architectures**
 - 🔐 Experienced in implementing **secure authentication systems**, **serverless workflows**, and **real-time dashboards**
