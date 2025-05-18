@@ -37,7 +37,7 @@ I love discussing tech, collaborating on projects, and helping others grow in te
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/KhajaBeeShaik)
 - 💌 [Email](mailto:shaikkhajabee13902@gmail.com)
-- 📁 [Portfolio]([https://your-resume-link.com](https://khajabeeshaik.github.io/Portfolio/))
+- 📁 [Portfolio]([https://your-resume-link.com](https://khajabeeshaik.github.io/Portfolio/])
 
 ---
 
