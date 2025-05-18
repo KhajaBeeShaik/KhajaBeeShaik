@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Khaja Bee
 
-I’m a graduate student pursuing my **Master’s in Information Technology**, passionate about building robust, scalable, and data-driven systems. My focus lies at the intersection of **software engineering**, **Data Engineering**, and **Data Analytics** — transforming real-world problems into working tech solutions.
+I’m a graduate student pursuing my **Master’s in Information Technology at ASU**, passionate about building robust, scalable, and data-driven systems. My focus lies at the intersection of **software engineering**, **Data Engineering**, and **Data Analytics** — transforming real-world problems into working tech solutions.
 
 ---
 
 ## 💡 A Little More About Me
 
-- 🌱 Currently exploring **AWS**, **Full-Stack Development**, and **Data Streaming applications**
-- 💻 Building end-to-end full-stack apps and **real-time data pipelines**
-- 🎯 Goal: Contribute to impactful engineering teams solving complex problems
-
+- 🌱 Currently diving deep into **AWS**, **Full-Stack Development**, and **Streaming Data Applications**
+- 💻 I enjoy crafting **end-to-end web platforms**, **automating data pipelines**, and **designing cloud-native architectures**
+- 🔐 Experienced in implementing **secure authentication systems**, **serverless workflows**, and **real-time dashboards**
+- 🎯 My goal is to contribute to engineering teams tackling complex challenges with clarity, creativity, and purpose
+- ✨ I thrive on turning abstract ideas into **robust, production-ready solutions** that deliver real-world impact
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -20,8 +21,14 @@ I’m a graduate student pursuing my **Master’s in Information Technology**, p
 **Web Development:**  
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL`
 
+**Data Analytics:**  
+`SQL` • `Power BI` • `Amazon Quicksight` • `Tableau`
+
 **Cloud & DevOps:**  
-`AWS (Lambda, S3, EC2, Glue, Athena, Step Functions)` • `Docker` • `GitHub Actions` • `Vercel`
+`AWS (Lambda, S3, EC2, Glue, Athena, Step Functions)` • `GCP(BigQuery, DataFlow)` • `Azure` • `Docker` • `GitHub Actions` • `Vercel`
+
+**ETL/ELT pipelines:** 
+`AWS Glue` • `dbt` • `Airflow` • `Kinesis`• `Kafka` 
 
 **Other Tools:**  
 `Streamlit` • `Pandas` • `Git` • `Figma` • `Jira`
